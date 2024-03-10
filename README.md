@@ -43,4 +43,4 @@ streamlit run app.py
 Enter your API key in the sidebar within the app to start fetching NBA games and news data.
 
 ## Screenshot
-https://raw.githubusercontent.com/OrenGrinker/NBAStreamlit/main/Screenshot%202024-03-10%20at%2017.39.22.png
+![NBAStreamlit](https://raw.githubusercontent.com/OrenGrinker/NBAStreamlit/main/Screenshot%202024-03-10%20at%2017.39.22.png)
