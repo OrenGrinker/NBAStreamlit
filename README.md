@@ -42,15 +42,5 @@ streamlit run app.py
 
 Enter your API key in the sidebar within the app to start fetching NBA games and news data.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## License
-
-This project is MIT licensed.
-
 ## Screenshot
-
-![NBAStreamlit Screenshot]([([https://github.com/OrenGrinker/SlackNewsAPI/blob/636ff9336802a598e95b44c8736c2a6a3487fbe0/Screenshot%202024-03-02%20at%2019.31.08.png](https://raw.githubusercontent.com/OrenGrinker/NBAStreamlit/main/Screenshot%202024-03-10%20at%2017.39.22.png)https://raw.githubusercontent.com/OrenGrinker/NBAStreamlit/main/Screenshot%202024-03-10%20at%2017.39.22.png))
-
+https://raw.githubusercontent.com/OrenGrinker/NBAStreamlit/main/Screenshot%202024-03-10%20at%2017.39.22.png
